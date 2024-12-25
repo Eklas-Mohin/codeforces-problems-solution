@@ -15,6 +15,5 @@ def main():
 
     print(vasya, petya)
 
-    
 if __name__ == '__main__':
     main()
